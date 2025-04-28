@@ -39,14 +39,6 @@ Atualmente, busco uma oportunidade para aplicar e aprimorar minhas competências
 
 ---
 
-## 🐾 Um toque de fofura 🐱
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/c5/cd/26/c5cd26bd50fe23382c33fbfc1e024b53.png" width="120px">
-</p>
-
----
-
 <p align="center">
   Feito com 💖 por <strong>Anna Gabriela Holanda</strong>
 </p>
