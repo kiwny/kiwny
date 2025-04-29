@@ -1,4 +1,4 @@
-# 👩‍💻 Anna Gabriela Holanda
+# Anna Gabriela Holanda
 
 ## Sobre mim
 
