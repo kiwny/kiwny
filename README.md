@@ -35,6 +35,8 @@
 
 ## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anna.gabriela.holanda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anna-gabriela-holanda/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annagabrielaholanda)
+[![Email](https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:annagabrielaholandal@email.com)
 
 # 💻  Conhecimentos:
 <div style="display: flex; justify-content: center;">
@@ -47,11 +49,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=kiwny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kiwny&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annagabrielaholanda)
-[![GitHub](https://img.shields.io/badge/-GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annagabrielaholanda)
-[![Email](https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 ---
 
