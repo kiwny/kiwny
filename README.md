@@ -33,10 +33,10 @@
 
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Anna.gabriela.holanda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anna-gabriela-holanda/) 
 
-# 💻 Tech Stack:
+# 💻  Conhecimentos:
 <div style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=fff" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
@@ -48,7 +48,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kiwny&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annagabrielaholanda)
 [![GitHub](https://img.shields.io/badge/-GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annagabrielaholanda)
