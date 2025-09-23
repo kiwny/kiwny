@@ -1,7 +1,7 @@
 # Anna Gabriela Holanda
 
 # 💫 About Me:
-🎀 Olá! Meu nome é Anna Gabriela Holanda e estou cursando Ciências da Computação na Universidade Paulista (UNIP) , atualmente no 6º semestre .<br>✨ Sou apaixonado por tecnologia, puzzle e gatos !<br><br>Atualmente, busco uma oportunidade para aplicar e aprimorar minhas competências, contribuindo de maneira ativa para o crescimento dos projetos onde eu estiver envolvido. 🚀<br><br>
+🎀 Olá! Meu nome é Anna Gabriela Holanda e estou cursando Ciências da Computação na Universidade Paulista (UNIP) , atualmente no 6º semestre .<br>✨ Sou apaixonado por tecnologia, puzzle e gatos !<br><br>Atualmente, busco uma oportunidade para aplicar e aprimorar minhas competências, contribuindo de maneira ativa para o crescimento dos projetos onde eu estiver envolvida. 🚀<br><br>
 
 
 ---
