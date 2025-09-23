@@ -40,8 +40,8 @@
 
 # 💻  Conhecimentos:
 <div style="display: flex; justify-content: center;">
-<img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/HTML5-f26d6d?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/CSS3-88c0d0?style=for-the-badge&logo=css3&logoColor=fff" />
   </div>
 
 ---
