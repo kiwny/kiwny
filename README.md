@@ -8,7 +8,7 @@
 
 ## 💻 Habilidades
 
-- **Front-end** (HTML5, CSS3, JavaScript)
+- **Front-end** (HTML5, CSS3)
 - **Análise de Dados** 📊
 - **Power BI** 📈
 - **Trabalho em equipe e gestão de pessoas** 🤝
